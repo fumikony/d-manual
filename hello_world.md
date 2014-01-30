@@ -404,7 +404,7 @@ import std.stdio;
 
 void main()
 {
-    writeln("%s, %s", <a>, <b>);
+    writefln("%s, %s", <a>, <b>);
 }
 ~~~~
 
